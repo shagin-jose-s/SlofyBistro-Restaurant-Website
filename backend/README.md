@@ -1,0 +1,1 @@
+Optional Express API. Run `npm install`, copy `.env.example` to `.env`, then `npm run dev`. Local JSON storage is demo-only; use a real database for production.\n
